@@ -21,7 +21,7 @@
     <parent>
         <groupId>org.jboss.eap.quickstarts</groupId>
         <artifactId>quickstart-parent</artifactId>
-        <version>7.2.0.CD12-dev4</version>
+        <version>7.2.0.CD12-dev5</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>contacts-jquerymobile</artifactId>
