@@ -66,7 +66,7 @@ endif::[]
 :EapForOpenshiftBookName: Red Hat JBoss Enterprise Application Platform for OpenShift
 :EapForOpenshiftOnlineBookName: Red Hat JBoss Enterprise Application Platform for OpenShift Online
 :ImagePrefixVersion: eap-cd
-:ImageandTemplateImportURL: https://raw.githubusercontent.com/jboss-container-images/jboss-eap-7-openshift-image/EAP_XP1_CR1/templates/
+:ImageandTemplateImportURL: https://raw.githubusercontent.com/jboss-container-images/jboss-eap-openshift-templates/eap-xp1/templates/
 
 ifdef::EAPCDRelease[]
 // EAP CD release
