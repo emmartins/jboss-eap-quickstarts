@@ -65,8 +65,8 @@ endif::[]
 :ContainerRegistryName: Red Hat Container Registry
 :EapForOpenshiftBookName: Red Hat JBoss Enterprise Application Platform for OpenShift
 :EapForOpenshiftOnlineBookName: Red Hat JBoss Enterprise Application Platform for OpenShift Online
-:ImagePrefixVersion: eap-cd
-:ImageandTemplateImportURL: https://raw.githubusercontent.com/jboss-container-images/jboss-eap-openshift-templates/eap-xp1/templates/
+:ImagePrefixVersion: eap-xp1
+:ImageandTemplateImportURL: https://raw.githubusercontent.com/jboss-container-images/jboss-eap-openshift-templates/eap-xp1/
 
 ifdef::EAPCDRelease[]
 // EAP CD release
