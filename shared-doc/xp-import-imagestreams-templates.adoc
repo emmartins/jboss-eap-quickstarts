@@ -20,7 +20,7 @@ Use the following commands to import the latest {xpaasproduct-shortname} image s
 ----
 for resource in \
   {ImagePrefixVersion}-basic-s2i.json \
-ifndef::eap-openshift-online[  {ImagePrefixVersion}-third-party-db-s2i.json \]
+ifndef::eap-openshift-online[  {ImagePrefixVersion}-third-party-db-s2i.json ]
 do
   oc replace --force -f \
 {ImageandTemplateImportURL}templates/${resource}
